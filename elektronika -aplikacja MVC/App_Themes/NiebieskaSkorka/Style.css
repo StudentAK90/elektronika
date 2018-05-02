@@ -1,0 +1,45 @@
+﻿body
+{
+    font-family: Verdana;
+    font-size: 8pt;
+    color: #000033;
+    background-color: #FFFFFF;
+    margin: 0px;
+}
+#PierwszyObszarBoczny
+{
+    float: left;
+    width: 200px;
+    height: 300px;
+}
+#DrugiObszarBoczny
+{
+    width: 200px;
+    height: 300px;
+    float: right;
+}
+#Menu
+{ font-size:7.5pt;
+  background-color: #55BBFF;
+}
+#ObszarLogowania
+{
+    text-align: right;
+    height: 58px;
+}
+#ObszarRoboczy
+{
+    background-color:#EEE;
+    padding:[50px][20px][50px][20px];
+    margin:[0px][200px][0px][200px];
+}
+  
+.ElementMenuNadrzednego
+{ color: #000033; font-weight: bold; padding: 3px 10px; }
+.ElementMenuRozwijanego
+{ background: #F5F5F5; color: #000033; padding: 3px 10px; }
+.ZaznaczonyElementMenu
+{ background: #000033; color: White; }
+   
+    
+    
